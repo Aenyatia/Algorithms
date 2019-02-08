@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fizzbuzz", "Fizzbuzz\Fizzbu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fizzbuzz.Tests", "Fizzbuzz.Tests\Fizzbuzz.Tests.csproj", "{D757BCE0-A7EB-4665-ABA8-8070CF0F58BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversePolishNotation", "ReversePolishNotation\ReversePolishNotation.csproj", "{E5744054-9C95-48AD-91E4-E83F7C7D46BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D757BCE0-A7EB-4665-ABA8-8070CF0F58BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D757BCE0-A7EB-4665-ABA8-8070CF0F58BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D757BCE0-A7EB-4665-ABA8-8070CF0F58BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5744054-9C95-48AD-91E4-E83F7C7D46BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5744054-9C95-48AD-91E4-E83F7C7D46BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5744054-9C95-48AD-91E4-E83F7C7D46BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5744054-9C95-48AD-91E4-E83F7C7D46BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
