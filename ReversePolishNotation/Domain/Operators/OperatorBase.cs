@@ -2,7 +2,7 @@
 {
 	public abstract class OperatorBase : Token
 	{
-		public virtual int Precedence => 1;
+		public virtual int Priority => 1;
 		public virtual Associativity Associativity => Associativity.Left;
 
 		protected OperatorBase(string entry)

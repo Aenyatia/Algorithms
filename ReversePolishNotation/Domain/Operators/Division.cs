@@ -2,6 +2,8 @@
 {
 	public class Division : OperatorBase
 	{
+		public override int Priority => 2;
+
 		public Division(string entry)
 			: base(entry)
 		{

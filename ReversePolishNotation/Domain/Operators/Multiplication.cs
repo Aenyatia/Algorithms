@@ -2,6 +2,8 @@
 {
 	public class Multiplication : OperatorBase
 	{
+		public override int Priority => 2;
+
 		public Multiplication(string entry)
 			: base(entry)
 		{
