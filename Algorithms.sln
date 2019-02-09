@@ -5,9 +5,11 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fizzbuzz", "Fizzbuzz\Fizzbuzz.csproj", "{7572662F-FE46-4784-988E-E24A724B8805}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fizzbuzz.Tests", "Fizzbuzz.Tests\Fizzbuzz.Tests.csproj", "{D757BCE0-A7EB-4665-ABA8-8070CF0F58BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fizzbuzz.Tests", "Fizzbuzz.Tests\Fizzbuzz.Tests.csproj", "{D757BCE0-A7EB-4665-ABA8-8070CF0F58BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversePolishNotation", "ReversePolishNotation\ReversePolishNotation.csproj", "{E5744054-9C95-48AD-91E4-E83F7C7D46BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReversePolishNotation", "ReversePolishNotation\ReversePolishNotation.csproj", "{E5744054-9C95-48AD-91E4-E83F7C7D46BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterCounter", "CharacterCounter\CharacterCounter.csproj", "{138182BF-9FCE-48A7-99DE-E25BC06D6E7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{E5744054-9C95-48AD-91E4-E83F7C7D46BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5744054-9C95-48AD-91E4-E83F7C7D46BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5744054-9C95-48AD-91E4-E83F7C7D46BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{138182BF-9FCE-48A7-99DE-E25BC06D6E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138182BF-9FCE-48A7-99DE-E25BC06D6E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138182BF-9FCE-48A7-99DE-E25BC06D6E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138182BF-9FCE-48A7-99DE-E25BC06D6E7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
