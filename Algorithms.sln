@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fizzbuzz.Tests", "Fizzbuzz.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReversePolishNotation", "ReversePolishNotation\ReversePolishNotation.csproj", "{E5744054-9C95-48AD-91E4-E83F7C7D46BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterCounter", "CharacterCounter\CharacterCounter.csproj", "{138182BF-9FCE-48A7-99DE-E25BC06D6E7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharacterCounter", "CharacterCounter\CharacterCounter.csproj", "{138182BF-9FCE-48A7-99DE-E25BC06D6E7F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hanoi", "Hanoi\Hanoi.csproj", "{4C934D9F-2451-4D88-9845-61E632CE1A15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM", "ATM\ATM.csproj", "{7E59F627-28BA-4AE8-96E2-C6EE1FA7846C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{138182BF-9FCE-48A7-99DE-E25BC06D6E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{138182BF-9FCE-48A7-99DE-E25BC06D6E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{138182BF-9FCE-48A7-99DE-E25BC06D6E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C934D9F-2451-4D88-9845-61E632CE1A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C934D9F-2451-4D88-9845-61E632CE1A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C934D9F-2451-4D88-9845-61E632CE1A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C934D9F-2451-4D88-9845-61E632CE1A15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E59F627-28BA-4AE8-96E2-C6EE1FA7846C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E59F627-28BA-4AE8-96E2-C6EE1FA7846C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E59F627-28BA-4AE8-96E2-C6EE1FA7846C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E59F627-28BA-4AE8-96E2-C6EE1FA7846C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
